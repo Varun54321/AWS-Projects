@@ -4,7 +4,7 @@ The aim of this project was to upload csv file in <b>AWS S3 bucket</b> and than 
 
 <br><h2> Here's the Entire Process</h2>  </br>
 
-<img width="521" alt="Screenshot 2024-01-27 170056" src="https://github.com/Varun54321/AWS-Projects/assets/114589776/1ee563da-8cd0-4b10-b119-4ddcdda02d8e">
+<img width="900" alt="Screenshot 2024-01-27 170056" src="https://github.com/Varun54321/AWS-Projects/assets/114589776/1ee563da-8cd0-4b10-b119-4ddcdda02d8e">
 
 
 
